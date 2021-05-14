@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Ordering in Tricentis Demo Webshop
 
-You can use the [editor on GitHub](https://github.com/Shant1986/demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Tricentis Demo Webshop. There are three ways to order the products. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. If you are a new customer, [Register](http://demowebshop.tricentis.com/register) for a seamless shopping experience.
+2. If you an an existing customer, [Log in](http://demowebshop.tricentis.com/login) to track your previous orders, manage shipments or returns.
+3. Browse and continue as a Guest.
 
-### Markdown
+> For demonstration purposes, this tutorial will proceed as a Guest.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Step 1: Searching and Browsing
 
-```markdown
-Syntax highlighted code block
+- When you begin on the the [Home page](http://demowebshop.tricentis.com/), either:
+    - Search the product by either name of the keywords in the **Search store** section
+    - Or browse the products through either one of the seven **CATEGORIES**, by the **MANUFACTURERS**, use **POPULAR TAGS**, or by the **FEATURED PRODUCTS**.
 
-# Header 1
-## Header 2
-### Header 3
+- Use the following filters to sort the list of the products
+    - **Sort by** either **Position**, **Name** (A to Z, or Z to A, **Price** or the date the product **Created on**.
+    - **Display** either 4, 8 or 12 products per page
+    - **View as** either **Grid** or **List**
 
-- Bulleted
-- List
+## Step 2: Selecting
 
-1. Numbered
-2. List
+1. Select the product you are interested in
+2. Choose the **Size**
+3. Add the required **Qty**
+4. **Add to the cart** 
 
-**Bold** and _Italic_ and `Code` text
+### 2.1: Confirmation
 
-[Link](url) and ![Image](src)
-```
+Notice the message "The product has been added to your [shopping cart](http://demowebshop.tricentis.com/cart)".
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> Tip: Use special features for the products to **Add to wishlist**, **Email a friend**, or **Add to compare list**
 
-### Jekyll Themes
+## Step 3: Manage Shopping cart
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shant1986/demo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Visit](http://demowebshop.tricentis.com/cart) the **Shopping cart** from the top right corner of the shop, click **Go to cart**.
 
-### Support or Contact
+Review the cart to either **Update shopping cart** by repeating **Step 1**, or to [**Continue shopping**](http://demowebshop.tricentis.com/apparel-shoes)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 3.1: Applying Discount and Gift Cards
+- Enter your coupon code and click **Apply coupon**
+- Type your gift card code and click **Add gift card**
+
+### 3.2: Estimate Shipping
+
+Enter **Country**, *State* / **province** and the **Zip** / **postal** **code** to **Estimate shipping** by either **Ground**, **Next** or **2nd Day Air** shipping, or the **In-Store Pickup**.
+
+### 3.3: Terms and Conditions
+
+> ! [Read](http://demowebshop.tricentis.com/t-popup/conditionsofuse) terms and conditions and check the box "I agree with the terms of service and I adhere to them unconditionally (read)"
+
+Press **Check out** to continue to the payment methods.
+- **Checkout as Guest**
+
+## Step 4: Checkout and Payment
+
+### 4.1: Addresses
+
+1. Enter your billing and shipping addresses and press **Continue**.
+2. Select the **Shipping Method**
+3. Choose the **Payment Method**, from either **Cash On Delivery (COD)**, **Check** / **Money** **Order**, **Credit** **Card**, or **Purchase** **Order**, and press **Continue**.
+Review **Payment Information**, and **Confirm Order**.
+
+### 4.2: Confirmation
+
+> ! Notice the **Thank** **you** message along with your **Order** **number** and press **Continue** to go back to the shop.
