@@ -6,7 +6,7 @@ Welcome to the Tricentis Demo Webshop. There are three ways to order the product
 2. If you an an existing customer, [Log in](http://demowebshop.tricentis.com/login) to track your previous orders, manage shipments or returns.
 3. Browse and continue as a Guest.
 
-> For demonstration purposes, this tutorial will proceed as a Guest.
+> For demonstration purposes, this tutorial is proceeding as a **Guest**.
 
 ## Step 1: Searching and Browsing
 
