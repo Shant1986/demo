@@ -19,7 +19,7 @@ Welcome to the Tricentis Demo Webshop. There are three ways to order the product
     - **Display** either 4, 8 or 12 products per page
     - **View as** either **Grid** or **List**
 
-## Step 2: Selecting
+## Step 2: Selecting the Products
 
 1. Select the product you are interested in
 2. Choose the **Size**
