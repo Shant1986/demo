@@ -26,7 +26,7 @@ Welcome to the Tricentis Demo Webshop. There are three ways to order the product
 3. Add the required **Qty**
 4. **Add to the cart** 
 
-### 2.1: Confirmation
+### 2.1: Cart Verification
 
 Notice the message "The product has been added to your [shopping cart](http://demowebshop.tricentis.com/cart)".
 
@@ -62,6 +62,6 @@ Press **Check out** to continue to the payment methods.
 3. Choose the **Payment Method**, from either **Cash On Delivery (COD)**, **Check** / **Money** **Order**, **Credit** **Card**, or **Purchase** **Order**, and press **Continue**.
 Review **Payment Information**, and **Confirm Order**.
 
-### 4.2: Confirmation
+### 4.2: Payment Confirmation
 
 > ! Notice the **Thank** **you** message along with your **Order** **number** and press **Continue** to go back to the shop.
