@@ -1,10 +1,10 @@
 # Ordering in Tricentis Demo Webshop
 
-Welcome to the Tricentis Demo Webshop. There are three ways to order the products. 
+Welcome to the Tricentis Demo Webshop. Order the products either as a registered user, or as a Guest. 
 
-1. If you are a new customer, [Register](http://demowebshop.tricentis.com/register) for a seamless shopping experience.
-2. If you an an existing customer, [Log in](http://demowebshop.tricentis.com/login) to track your previous orders, manage shipments or returns.
-3. Browse and continue as a Guest.
+- If you are a new customer, [Register](http://demowebshop.tricentis.com/register) for a seamless shopping experience.
+- If you an an existing customer, [Log in](http://demowebshop.tricentis.com/login) to track your previous orders, manage shipments or returns.
+- Browse and continue as a Guest.
 
 > For demonstration purposes, this tutorial is proceeding as a **Guest**.
 
@@ -19,10 +19,10 @@ Welcome to the Tricentis Demo Webshop. There are three ways to order the product
     - **Display** either 4, 8 or 12 products per page
     - **View as** either **Grid** or **List**
 
-## Step 2: Selecting the Products
+## Step 2: Selecting Products
 
 1. Select the product you are interested in
-2. Choose the **Size**
+2. Choose the product **Size**
 3. Add the required **Qty**
 4. **Add to the cart** 
 
@@ -32,7 +32,7 @@ Notice the message "The product has been added to your [shopping cart](http://de
 
 > Tip: Use special features for the products to **Add to wishlist**, **Email a friend**, or **Add to compare list**
 
-## Step 3: Manage Shopping cart
+## Step 3: Manage Shopping Cart
 
 [Visit](http://demowebshop.tricentis.com/cart) the **Shopping cart** from the top right corner of the shop, click **Go to cart**.
 
@@ -55,7 +55,7 @@ Press **Check out** to continue to the payment methods.
 
 ## Step 4: Checkout and Payment
 
-### 4.1: Addresses
+### 4.1: Manage Addresses
 
 1. Enter your billing and shipping addresses and press **Continue**.
 2. Select the **Shipping Method**
