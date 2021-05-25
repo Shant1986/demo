@@ -1,6 +1,6 @@
-# Ordering in Tricentis Demo Webshop
+# Ordering in a Demo Webshop
 
-Welcome to the Tricentis Demo Webshop. Order the products either as a registered user, or as a Guest. 
+Welcome to a Demo Webshop. Order your products either as a registered user, or as a Guest. 
 
 - If you are a new customer, [Register](http://demowebshop.tricentis.com/register) for a seamless shopping experience.
 - If you an an existing customer, [Log in](http://demowebshop.tricentis.com/login) to track your previous orders, manage shipments or returns.
